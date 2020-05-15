@@ -1,1 +1,1 @@
-https://project-wave-festival.herokuapp.com/
+https://new-wave-app.herokuapp.com/order-a-ticket
